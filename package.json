@@ -15,12 +15,12 @@
     "node" : ">=14.19.3"
   },
   "author": "sanuwa official",
-  "developer": "sanuwa",
+  "developer": "Pabasara",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/Pabasaralakmal2/AQUABOT-MD",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
