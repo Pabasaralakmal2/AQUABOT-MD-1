@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/Pabasaralakmal2/AQUABOT-MD",
+  "homepage": "https://github.com/Pabasaralakmal2/AQUABOT-MD-1",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
